@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 **Maxime Chamberland, PhD** <br />
-Postdoctoral Research Fellow <br />
-Donders Institute for Brain, Cognition and Behavior <br />
-Radboud University, The Netherlands
+Assistant Professor <br />
+Technical University Eindhoven <br />
+Department of Mathematics and Computer Science
 
 My research interests are driven by a passion to improve our understanding of the human brain by developing neuroimaging visualization & analysis methods. I have a passion for:
 
